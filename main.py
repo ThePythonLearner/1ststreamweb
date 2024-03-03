@@ -5,7 +5,7 @@ st.set_page_config(page_title="About Me", page_icon=":tada:", layout="wide")
 with st.container():
     st.subheader("Hi, I'm Sreyansh Tammiraju :wave:")
     st.title("Born in Hyderabad. Nov 16, 2011 ૐ")
-    st.subheader("I'm passionate to use Python and Streamlit for better apps")
+    st.subheader("I'm interested to use Python and Streamlit for better apps")
     st.write("[Learn More](https://streamlit.io)")
 
 with st.container():
